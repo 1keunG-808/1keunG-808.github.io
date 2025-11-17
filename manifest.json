@@ -1,0 +1,9 @@
+{
+  "name": "EVE Chat",
+  "short_name": "EVE Chat",
+  "description": "你的专属虚拟聊天器应用",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
